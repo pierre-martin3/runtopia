@@ -1,0 +1,21 @@
+.btn-blue {
+	background-color: #38B8B1;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: rubik;
+	
+}
+
+
+.btn {
+	background-color: #38B8B1;
+	padding: 20px 30px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: rubik;
+	font-size: 25px;
+	
+}
